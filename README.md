@@ -1,5 +1,5 @@
 
-[![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg)]
+![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg)
 
 <h1 align="center">Hi 👋, I'm Sufad M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
