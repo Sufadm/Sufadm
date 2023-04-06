@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android Flutter**
+- 💬 Ask me about **Android,Flutter**
 
 - 📫 How to reach me **sufadm77@gmail.com**
 
