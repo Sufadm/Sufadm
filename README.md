@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sufadm77@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Skill fact **I am SelfLearner **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
