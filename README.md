@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sufad_zan" target="blank"><img src="https://img.shields.io/twitter/follow/sufad_zan?logo=twitter&style=for-the-badge" alt="sufad_zan" /></a> </p>
 
-- 🔭 I’m currently working on **BROTOTYPE**
+- 🔭 I’m currently UpSkilling Myself at **BROTOTYPE**
 
 - 🌱 I’m currently learning **Flutter**
 
