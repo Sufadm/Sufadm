@@ -9,16 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/sufad_zan" target="blank"><img src="https://img.shields.io/twitter/follow/sufad_zan?logo=twitter&style=for-the-badge" alt="sufad_zan" /></a> </p>
 
-- 🔭 I’m currently UpSkilling Myself at **BROTOTYPE**
+- 🔭 Exploring self-discovery at BROTOTYPE
 
-- 💻 I’m currently learning **Flutter**
+- 💻 Currently perfecting Flutter app development
 
-- 💬 Ask me about **Android,Flutter**
+- 💬  Happy to answer your Android and Flutter queries
 
-- 📫 How to reach me **sufadm77@gmail.com**
+- 📫 Reach me at **sufadm77@gmail.com**
 
-- ⚡ Skill fact **I am a SelfLearner **
-
+- ⚡  I'm a self-motivated learner, passionate about excelling in Flutter.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sufad_zan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sufad_zan" height="30" width="40" /></a>
