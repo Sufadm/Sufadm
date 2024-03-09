@@ -7,7 +7,7 @@
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufadm&label=Profile%20views&color=0e75b6&style=flat" alt="sufadm" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sufad_zan" target="blank"><img src="https://twitter.com/sufad_zan" alt="sufad_zan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sufad_za" target="blank"><img src="https://twitter.com/sufad_zan" alt="sufad_zan" /></a> </p>
 
 - 🔭 Exploring self-discovery at Tech Industry 
 
