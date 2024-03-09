@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sufad_zan" target="blank"><img src="https://img.shields.io/twitter/follow/sufad_zan?logo=twitter&style=for-the-badge" alt="sufad_zan" /></a> </p>
 
-- 🔭 Exploring self-discovery at BROTOTYPE
+- 🔭 Exploring self-discovery at Tech Industry 
 
 - 💻 Currently perfecting Flutter app development
 
