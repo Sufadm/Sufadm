@@ -5,9 +5,9 @@
 <h3 align="center">A passionate Flutter Developer from India</h3>
 <!-- <img align="right" alt="coding" width="400" src="">
  -->
-<p align="left"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sufadm" /> </p>
+<p align="left"> <img src="" alt="sufadm" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sufad_za" target="blank"><img src="https://www.businessofapps.com/wp-content/uploads/2023/07/twitter-x-e1690183153269.webp" alt="sufad_zan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sufad_za" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sufad_zan" /></a> </p>
 
 - 🔭 Exploring self-discovery at Tech Industry 
 
