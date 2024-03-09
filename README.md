@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sufad M</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufadm&label=Profile%20views&color=0e75b6&style=flat" alt="sufadm" /> </p>
 
